@@ -13,12 +13,12 @@ Please read the instructions carefully and submit your solution before the deadl
 - [Qualifying for the Code Jam](#qualifying-for-the-code-jam)
 - [Rules and Guidelines](#rules-and-guidelines)
 - [Qualifier Assignment](#qualifier-assignment)
-		- [Function Signature](#function-signature)
-	- [Examples](#examples)
-		- [Example 1](#example-1)
-		- [Example 2](#example-2)
-		- [Example 3](#example-3)
-	- [Good Luck!](#good-luck)
+    - [Function Signature](#function-signature)
+  - [Examples](#examples)
+    - [Example 1](#example-1)
+    - [Example 2](#example-2)
+    - [Example 3](#example-3)
+  - [Good Luck!](#good-luck)
 
 # Qualifying for the Code Jam
 
@@ -33,7 +33,7 @@ Your code will be tested with a multitude of tests to test all aspects of your c
 
 - Use [`qualifier.py`](qualifier/qualifier.py) as the base for your solution. It includes a stub for the function you need to write: `make_table`.
 
-- Do not change the **signature** of the function included in [`qualifier.py`](qualifier/qualifier.py). The test suite we will use to judge your submission relies on it. Everything else, including the docstring, may be changed.
+- Do not change the **signature** of the function included in [`qualifier.py`](qualifier.py). The test suite we will use to judge your submission relies on it. Everything else, including the docstring, may be changed.
 
 - Do not include "debug" code in your submission. You should remove all debug prints and other debug statements before you submit your solution.
 
